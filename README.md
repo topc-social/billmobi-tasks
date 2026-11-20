@@ -1,6 +1,6 @@
 # Billmobi tasks
 
-Billmobi's public project repo: tasks and the Neki ledger for Billmobi, digital receipts for shops. Kamal built it before TOPC; its code is private on GitLab (`receiptbox/billmobi`).
+Billmobi's public project repo: tasks and the Neki ledger for Billmobi, digital receipts for shops. Kamal built it before TOPC; its code is private on GitLab (`receiptbox/billmobi`). It started as an [idea on Ideato](https://www.ideato.social/idea/41e7c0d9-50d8-44f0-ad6d-67e4838388cd); project page: [ideato.social/projects/billmobi](https://www.ideato.social/projects/billmobi).
 
 - [Issues](https://github.com/topc-social/billmobi-tasks/issues): open tasks. Each issue is one task, and its `neki:N` label is the Neki it earns (1 Neki = 1 rupee of work at market price).
 - [`LEDGER.md`](LEDGER.md): who has earned what. Your share of Billmobi = your Neki / all Neki there.
