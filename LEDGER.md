@@ -6,3 +6,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
+| 1 | 2026-11-20 | Kamal Khatwani | Idea (1%) for #1: Put Billmobi on Ideato: idea, project page and its links | 9 | provisional | https://github.com/topc-social/billmobi-tasks/issues/1 |
+| 2 | 2026-11-20 | Kamal Khatwani (via Claude) | Work (99%) on #1: Put Billmobi on Ideato: idea, project page and its links | 891 | provisional | https://github.com/topc-social/billmobi-tasks/issues/1 |
