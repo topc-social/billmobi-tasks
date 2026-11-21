@@ -9,7 +9,7 @@ Billmobi (BillMobi Technologies Pvt Ltd, digital receipts) ran from Feb 2020 to 
 3. **Provisional.** The agreed split comes from Kamal's memory; the written cap table didn't survive. Any of the four can correct their row by commenting on [#2](https://github.com/topc-social/billmobi-tasks/issues/2).
 4. People paid in cash who weren't on the cap table (freelancers, the first full-time hire) get no opening row; their work is inside the total. One exception, Kamal's call: **Intesar Sheikh**, who designed Billmobi's brand and app over two years, gets a row for the unpaid part of her work (row 9). The four shareholders split the rest (rows 10–13 correct rows 3–6).
 
-## What the 20,51,100 covers
+## What the 21,71,100 covers
 
 | Part | Neki | How it was priced |
 |---|---|---|
