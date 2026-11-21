@@ -29,3 +29,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 21 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #8: Design Billmobi's counter app: brand system and 17 screens | 19,800 | provisional | https://github.com/topc-social/billmobi-tasks/issues/8 |
 | 22 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #9: Build the Billmobi Android app and its backend for a real shop | 300 | provisional | https://github.com/topc-social/billmobi-tasks/issues/9 |
 | 23 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #9: Build the Billmobi Android app and its backend for a real shop | 29,700 | provisional | https://github.com/topc-social/billmobi-tasks/issues/9 |
+| 24 | 2026-11-22 | Kamal Khatwani | Idea (1%) for #10: Run Billmobi in production for the first shop | 40 | provisional | https://github.com/topc-social/billmobi-tasks/issues/10 |
+| 25 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #10: Run Billmobi in production for the first shop | 3,960 | provisional | https://github.com/topc-social/billmobi-tasks/issues/10 |
