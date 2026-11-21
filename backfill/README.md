@@ -4,10 +4,10 @@ Billmobi (BillMobi Technologies Pvt Ltd, digital receipts) ran from Feb 2020 to 
 
 ## The rule
 
-1. **Price all past work** on TOPC's rate card at pre-2025 hand-work prices, before any cash: **20,51,100 Neki**. That keeps 1 Neki = ₹1 of work, the same unit as every task after it.
+1. **Price all past work** on TOPC's rate card at pre-2025 hand-work prices, before any cash: **21,71,100 Neki** (20,51,100 before Intesar's Figma file was counted). That keeps 1 Neki = ₹1 of work, the same unit as every task after it.
 2. **Split it by the last split the team agreed** while working, not by a split rebuilt years later: Kamal 51%, Himanshu Singh 23%, Yash Chamadia 18%, Harsh Khatwani 8%. The team's own agreement already weighed everything that's hard to prove now (shop visits, support, running the company).
 3. **Provisional.** The agreed split comes from Kamal's memory; the written cap table didn't survive. Any of the four can correct their row by commenting on [#2](https://github.com/topc-social/billmobi-tasks/issues/2).
-4. People paid in cash who weren't on the cap table (freelancers, the first full-time hire) get no opening row. Their work is inside the 20,51,100.
+4. People paid in cash who weren't on the cap table (freelancers, the first full-time hire) get no opening row; their work is inside the total. One exception, Kamal's call: **Intesar Sheikh**, who designed Billmobi's brand and app over two years, gets a row for the unpaid part of her work (row 9). The four shareholders split the rest (rows 10–13 correct rows 3–6).
 
 ## What the 20,51,100 covers
 
@@ -17,7 +17,7 @@ Billmobi (BillMobi Technologies Pvt Ltd, digital receipts) ran from Feb 2020 to 
 | Running the order integrations for clients, and the client deal | 1,62,000 | Proxies: one people-work row per month of running it; the agreement as a legal row |
 | Pitch decks, programme applications (YC S20 and W21, Surge, WeWork Jumpstart…), website, demo video, research and writing | 2,46,000 | Design, writing and research rows |
 | Shop visits across Pune (~300, by the team) | 51,000 | Outreach rows |
-| UI design and brand | 55,000 | Design rows |
+| UI design and brand (Intesar: logo, ~69 app screens in the "Billmobi - Intesar" Figma file, banners, research boards) | 1,75,000 | Design rows: D3 brand, 3 × D4 app UI, 2 × D2 |
 | Finance and compliance (books, audits, filings, closing the company) | 30,000 | Legal row as a proxy (the card has no finance row yet) |
 
 ## Cross-check
