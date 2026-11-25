@@ -43,3 +43,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 35 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #13: Let Papa enter the stock already on his shelves | 3,960 | provisional | https://github.com/topc-social/billmobi-tasks/issues/13 |
 | 36 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #17: Mock stock photos: take, find in Stock, send on WhatsApp | 40 | provisional | https://github.com/topc-social/billmobi-tasks/issues/17 |
 | 37 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #17: Mock stock photos: take, find in Stock, send on WhatsApp | 3,960 | provisional | https://github.com/topc-social/billmobi-tasks/issues/17 |
+| 38 | 2026-11-25 | Kamal Khatwani | Idea (1%) for #18: Build stock photos: take, see in Stock, send on WhatsApp | 90 | provisional | https://github.com/topc-social/billmobi-tasks/issues/18 |
+| 39 | 2026-11-25 | Kamal Khatwani (via Claude) | Work (99%) on #18: Build stock photos: take, see in Stock, send on WhatsApp | 8,910 | provisional | https://github.com/topc-social/billmobi-tasks/issues/18 |
