@@ -53,3 +53,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 45 | 2026-11-25 | Kamal Khatwani (via Claude) | Work (99%) on #21: Find why Papa's entries on 25 Nov never reached the server | 792 | provisional | https://github.com/topc-social/billmobi-tasks/issues/21 |
 | 46 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #25: Show every problem Papa hits in Billmobi without Kamal looking | 40 | provisional | https://github.com/topc-social/billmobi-tasks/issues/25 |
 | 47 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on #25: Show every problem Papa hits in Billmobi without Kamal looking | 3,960 | provisional | https://github.com/kamal0808/billmobi/pull/7 |
+| 48 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #39: Billmobi works with no server: shop data on the phone, syncs when back | 200 | provisional | https://github.com/topc-social/billmobi-tasks/issues/39 |
+| 49 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #39: Billmobi works with no server: shop data on the phone, syncs when back | 19,800 | provisional | https://github.com/kamal0808/billmobi/pull/11 |
