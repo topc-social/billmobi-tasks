@@ -77,3 +77,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 69 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #34: Mock the tailoring tab: due list, job slip, job, customer advance | 5,940 | provisional | https://github.com/kamal0808/billmobi/pull/10 |
 | 70 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #31: Mock Papa's next features: supplier barcodes, bill lines, bill link, day view, faster opening | 135 | provisional | https://github.com/topc-social/billmobi-tasks/issues/31 |
 | 71 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #31: Mock Papa's next features: supplier barcodes, bill lines, bill link, day view, faster opening | 13,365 | provisional | https://github.com/kamal0808/billmobi/pull/10 |
+| 72 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #23: Pull Papa's experience out of Kamal's Phusphus notes | 27 | provisional | https://github.com/topc-social/billmobi-tasks/issues/23 |
+| 73 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #23: Pull Papa's experience out of Kamal's Phusphus notes | 2,673 | provisional | https://github.com/kamal0808/billmobi/pull/4 |
