@@ -91,3 +91,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 83 | 2026-11-28 | Kamal Khatwani | Work (99%) on #47: Show Papa's whole screen in PostHog replays | 346 | provisional | https://github.com/kamal0808/billmobi/pull/16 |
 | 84 | 2026-11-28 | Kamal Khatwani | Idea (1%) for #46: Get Papa's 3 stuck bills and sale from his phone to the server | 18 | provisional | https://github.com/kamal0808/billmobi/pull/15 |
 | 85 | 2026-11-28 | Kamal Khatwani | Work (99%) on #46: Get Papa's 3 stuck bills and sale from his phone to the server | 1,782 | provisional | https://github.com/kamal0808/billmobi/pull/15 |
+| 86 | 2026-11-28 | Kamal Khatwani | Idea (1%) for #49: See in PostHog what saved, what's stuck and which update Papa runs | 12 | provisional | https://github.com/kamal0808/billmobi/pull/18 |
+| 87 | 2026-11-28 | Kamal Khatwani | Work (99%) on #49: See in PostHog what saved, what's stuck and which update Papa runs | 1,188 | provisional | https://github.com/kamal0808/billmobi/pull/18 |
