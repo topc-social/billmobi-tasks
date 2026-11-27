@@ -59,3 +59,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 51 | 2026-11-27 | Kamal Khatwani | Work (99%) on #19: Turn Papa's first app session into a written plan | 3,960 | provisional | https://github.com/kamal0808/billmobi/pull/4 |
 | 52 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #36: Android back always goes to the previous screen | 8 | provisional | https://github.com/topc-social/billmobi-tasks/issues/36 |
 | 53 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #36: Android back always goes to the previous screen | 792 | provisional | https://github.com/kamal0808/billmobi/pull/8 |
+| 54 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #38: Nothing Papa enters lives only on his phone: server drafts for Buy and Opening, keep bill photos | 60 | provisional | https://github.com/topc-social/billmobi-tasks/issues/38 |
+| 55 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #38: Nothing Papa enters lives only on his phone: server drafts for Buy and Opening, keep bill photos | 5,940 | provisional | https://github.com/kamal0808/billmobi/pull/9 |
