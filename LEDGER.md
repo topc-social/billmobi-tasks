@@ -97,3 +97,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 89 | 2026-11-28 | Kamal Khatwani | Work (99%) on #44: Review Papa's day in Billmobi and rank the problems he hit | 2,673 | provisional | https://github.com/kamal0808/billmobi/pull/14 |
 | 90 | 2026-11-28 | Kamal Khatwani | Idea (1%) for #50: Mock an update card that shows what changed and updates in one tap | 6 | provisional | https://github.com/kamal0808/billmobi/pull/20 |
 | 91 | 2026-11-28 | Kamal Khatwani | Work (99%) on #50: Mock an update card that shows what changed and updates in one tap | 544 | provisional | https://github.com/kamal0808/billmobi/pull/20 |
+| 92 | 2026-11-28 | Kamal Khatwani | Idea (1%) for #51: Let the shop update the app in one tap and read what changed | 12 | provisional | https://github.com/kamal0808/billmobi/pull/20 |
+| 93 | 2026-11-28 | Kamal Khatwani | Work (99%) on #51: Let the shop update the app in one tap and read what changed | 1,188 | provisional | https://github.com/kamal0808/billmobi/pull/20 |
