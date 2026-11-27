@@ -111,3 +111,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 103 | 2026-11-28 | Kamal Khatwani | Work (99%) on #60: Make the easier supplier bill screens real, ready for the shop | 3,960 | provisional | https://github.com/kamal0808/billmobi/pull/24 |
 | 104 | 2026-11-28 | Kamal Khatwani | Idea (1%) for #57: Find Billmobi's worst UX problems and mock a fix for the worst flow | 67 | provisional | https://github.com/kamal0808/billmobi/pull/24 |
 | 105 | 2026-11-28 | Kamal Khatwani | Work (99%) on #57: Find Billmobi's worst UX problems and mock a fix for the worst flow | 6,633 | provisional | https://github.com/kamal0808/billmobi/pull/24 |
+| 106 | 2026-11-28 | Kamal Khatwani | Idea (1%) for #54: Mock a supplier bill that goes in and stays in | 27 | provisional | https://github.com/kamal0808/billmobi/pull/24 |
+| 107 | 2026-11-28 | Kamal Khatwani | Work (99%) on #54: Mock a supplier bill that goes in and stays in | 2,673 | provisional | https://github.com/kamal0808/billmobi/pull/24 |
