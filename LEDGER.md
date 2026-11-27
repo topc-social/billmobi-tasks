@@ -65,3 +65,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 57 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #26: Let Papa type his own MRP on a Buy line | 792 | provisional | https://github.com/kamal0808/billmobi/pull/10 |
 | 58 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #30: Make opening stock fast: next code, remember the last piece | 12 | provisional | https://github.com/topc-social/billmobi-tasks/issues/30 |
 | 59 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #30: Make opening stock fast: next code, remember the last piece | 1,188 | provisional | https://github.com/kamal0808/billmobi/pull/10 |
+| 60 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #28: Buy bill lines: edit, delete, renumber, two items in a line, GST, amount-only | 40 | provisional | https://github.com/topc-social/billmobi-tasks/issues/28 |
+| 61 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #28: Buy bill lines: edit, delete, renumber, two items in a line, GST, amount-only | 3,960 | provisional | https://github.com/kamal0808/billmobi/pull/10 |
