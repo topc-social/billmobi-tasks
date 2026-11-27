@@ -103,3 +103,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 95 | 2026-11-28 | Kamal Khatwani | Work (99%) on #48: See how Pune garment shops are organised, from their public photos | 3,960 | provisional | https://github.com/kamal0808/billmobi/pull/19 |
 | 96 | 2026-11-28 | Kamal Khatwani | Idea (1%) for #52: Write the plan to get the first shop using Billmobi daily | 4 | provisional | https://github.com/kamal0808/billmobi/pull/21 |
 | 97 | 2026-11-28 | Kamal Khatwani | Work (99%) on #52: Write the plan to get the first shop using Billmobi daily | 346 | provisional | https://github.com/kamal0808/billmobi/pull/21 |
+| 98 | 2026-11-28 | Kamal Khatwani | Idea (1%) for #53: Work out how Billmobi prints price tags on the SEZNIK printer | 18 | provisional | https://github.com/topc-social/billmobi-tasks/issues/53 |
+| 99 | 2026-11-28 | Kamal Khatwani (via Claude) | Work (99%) on #53: Work out how Billmobi prints price tags on the SEZNIK printer | 1,782 | provisional | https://github.com/topc-social/billmobi-tasks/issues/53 |
