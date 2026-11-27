@@ -85,3 +85,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 77 | 2026-11-28 | Kamal Khatwani | Work (99%) on #42: Research India's market for a small shop's billing app | 11,583 | provisional | https://github.com/kamal0808/billmobi/pull/13 |
 | 78 | 2026-11-28 | Kamal Khatwani | Idea (1%) for #43: Find the unsolved problems of India's small retail shops | 40 | provisional | https://github.com/kamal0808/billmobi/pull/13 |
 | 79 | 2026-11-28 | Kamal Khatwani | Work (99%) on #43: Find the unsolved problems of India's small retail shops | 3,960 | provisional | https://github.com/kamal0808/billmobi/pull/13 |
+| 80 | 2026-11-28 | Kamal Khatwani | Idea (1%) for #45: Check if other shops share Papa's problems, and list Pune leads | 67 | provisional | https://github.com/kamal0808/billmobi/pull/17 |
+| 81 | 2026-11-28 | Kamal Khatwani | Work (99%) on #45: Check if other shops share Papa's problems, and list Pune leads | 6,633 | provisional | https://github.com/kamal0808/billmobi/pull/17 |
